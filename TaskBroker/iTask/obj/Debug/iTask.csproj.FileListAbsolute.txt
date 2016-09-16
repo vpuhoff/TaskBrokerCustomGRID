@@ -1,0 +1,5 @@
+C:\Users\vipuhov\Desktop\Разработки\TaskBroker\iTask\bin\Debug\iTask.dll
+C:\Users\vipuhov\Desktop\Разработки\TaskBroker\iTask\bin\Debug\iTask.pdb
+C:\Users\vipuhov\Desktop\Разработки\TaskBroker\iTask\obj\Debug\iTask.csprojResolveAssemblyReference.cache
+C:\Users\vipuhov\Desktop\Разработки\TaskBroker\iTask\obj\Debug\iTask.dll
+C:\Users\vipuhov\Desktop\Разработки\TaskBroker\iTask\obj\Debug\iTask.pdb

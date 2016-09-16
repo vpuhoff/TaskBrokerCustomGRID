@@ -1,0 +1,10 @@
+C:\Users\vipuhov\Desktop\Разработки\TaskBroker\Worker\bin\Release\Worker.exe.config
+C:\Users\vipuhov\Desktop\Разработки\TaskBroker\Worker\obj\Release\Worker.csprojResolveAssemblyReference.cache
+C:\Users\vipuhov\Desktop\Разработки\TaskBroker\Worker\bin\Release\Worker.exe
+C:\Users\vipuhov\Desktop\Разработки\TaskBroker\Worker\bin\Release\Worker.pdb
+C:\Users\vipuhov\Desktop\Разработки\TaskBroker\Worker\bin\Release\TaskBroker.exe
+C:\Users\vipuhov\Desktop\Разработки\TaskBroker\Worker\bin\Release\iTask.dll
+C:\Users\vipuhov\Desktop\Разработки\TaskBroker\Worker\bin\Release\TaskBroker.pdb
+C:\Users\vipuhov\Desktop\Разработки\TaskBroker\Worker\bin\Release\iTask.pdb
+C:\Users\vipuhov\Desktop\Разработки\TaskBroker\Worker\obj\Release\Worker.exe
+C:\Users\vipuhov\Desktop\Разработки\TaskBroker\Worker\obj\Release\Worker.pdb

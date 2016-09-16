@@ -1,0 +1,16 @@
+C:\Users\vipuhov\Desktop\Разработки\TaskBroker\TaskBroker\bin\Debug\TaskBroker.exe.config
+C:\Users\vipuhov\Desktop\Разработки\TaskBroker\TaskBroker\bin\Debug\TaskBroker.exe
+C:\Users\vipuhov\Desktop\Разработки\TaskBroker\TaskBroker\bin\Debug\TaskBroker.pdb
+C:\Users\vipuhov\Desktop\Разработки\TaskBroker\TaskBroker\bin\Debug\iTask.dll
+C:\Users\vipuhov\Desktop\Разработки\TaskBroker\TaskBroker\bin\Debug\iTask.pdb
+C:\Users\vipuhov\Desktop\Разработки\TaskBroker\TaskBroker\obj\Debug\TaskBroker.csprojResolveAssemblyReference.cache
+C:\Users\vipuhov\Desktop\Разработки\TaskBroker\TaskBroker\obj\Debug\TaskBroker.exe
+C:\Users\vipuhov\Desktop\Разработки\TaskBroker\TaskBroker\obj\Debug\TaskBroker.pdb
+N:\TaskBroker\TaskBroker\bin\Debug\TaskBroker.exe.config
+N:\TaskBroker\TaskBroker\bin\Debug\TaskBroker.exe
+N:\TaskBroker\TaskBroker\bin\Debug\TaskBroker.pdb
+N:\TaskBroker\TaskBroker\bin\Debug\iTask.dll
+N:\TaskBroker\TaskBroker\bin\Debug\iTask.pdb
+N:\TaskBroker\TaskBroker\obj\Debug\TaskBroker.csprojResolveAssemblyReference.cache
+N:\TaskBroker\TaskBroker\obj\Debug\TaskBroker.exe
+N:\TaskBroker\TaskBroker\obj\Debug\TaskBroker.pdb

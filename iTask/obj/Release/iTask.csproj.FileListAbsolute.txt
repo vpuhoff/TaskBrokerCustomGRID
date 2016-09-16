@@ -1,0 +1,4 @@
+C:\Users\vipuhov\Desktop\Разработки\TaskBroker\iTask\bin\Release\iTask.dll
+C:\Users\vipuhov\Desktop\Разработки\TaskBroker\iTask\bin\Release\iTask.pdb
+C:\Users\vipuhov\Desktop\Разработки\TaskBroker\iTask\obj\Release\iTask.dll
+C:\Users\vipuhov\Desktop\Разработки\TaskBroker\iTask\obj\Release\iTask.pdb

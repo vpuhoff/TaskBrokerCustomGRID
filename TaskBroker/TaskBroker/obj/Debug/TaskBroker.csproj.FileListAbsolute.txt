@@ -1,0 +1,8 @@
+C:\Users\vipuhov\Desktop\Разработки\TaskBroker\TaskBroker\bin\Debug\TaskBroker.exe.config
+C:\Users\vipuhov\Desktop\Разработки\TaskBroker\TaskBroker\bin\Debug\TaskBroker.exe
+C:\Users\vipuhov\Desktop\Разработки\TaskBroker\TaskBroker\bin\Debug\TaskBroker.pdb
+C:\Users\vipuhov\Desktop\Разработки\TaskBroker\TaskBroker\bin\Debug\iTask.dll
+C:\Users\vipuhov\Desktop\Разработки\TaskBroker\TaskBroker\bin\Debug\iTask.pdb
+C:\Users\vipuhov\Desktop\Разработки\TaskBroker\TaskBroker\obj\Debug\TaskBroker.csprojResolveAssemblyReference.cache
+C:\Users\vipuhov\Desktop\Разработки\TaskBroker\TaskBroker\obj\Debug\TaskBroker.exe
+C:\Users\vipuhov\Desktop\Разработки\TaskBroker\TaskBroker\obj\Debug\TaskBroker.pdb

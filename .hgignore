@@ -1,0 +1,18 @@
+syntax: glob
+*.dll
+**.pdb
+iTask/obj
+TaskBroker/obj
+TaskBroker/bin
+TaskBroker/SampleTask/obj
+SampleTask/obj/Debug
+ZeroMQ-Task-Ventilator/Example/bin
+ZeroMQ-Task-Ventilator/Example/obj
+ZeroMQ-Task-Ventilator/ZeroMQ Task Ventilator/bin
+ZeroMQ-Task-Ventilator/ZeroMQ Task Ventilator/obj
+SampleTask/obj
+ZeroMQ-Task-Ventilator/BIN
+Worker/obj
+Worker/bin
+ZeroMQ-Task-Ventilator
+packages/ZeroMQ.4.1.0.15

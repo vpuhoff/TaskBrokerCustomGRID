@@ -1,0 +1,7 @@
+C:\Users\vipuhov\Desktop\Разработки\TaskBroker\SampleTask\bin\Debug\SampleTask.dll
+C:\Users\vipuhov\Desktop\Разработки\TaskBroker\SampleTask\bin\Debug\SampleTask.pdb
+C:\Users\vipuhov\Desktop\Разработки\TaskBroker\SampleTask\bin\Debug\iTask.dll
+C:\Users\vipuhov\Desktop\Разработки\TaskBroker\SampleTask\bin\Debug\iTask.pdb
+C:\Users\vipuhov\Desktop\Разработки\TaskBroker\SampleTask\obj\Debug\SampleTask.csprojResolveAssemblyReference.cache
+C:\Users\vipuhov\Desktop\Разработки\TaskBroker\SampleTask\obj\Debug\SampleTask.dll
+C:\Users\vipuhov\Desktop\Разработки\TaskBroker\SampleTask\obj\Debug\SampleTask.pdb
